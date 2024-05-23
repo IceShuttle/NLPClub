@@ -18,3 +18,8 @@ The major road block I got was the amount of sentences that the paragraphs conta
 2. Open the Jupyter Notebook
 3.  Remove "/kaggle/input/pclub-nlp/" from both para_path and queries_path
 
+# Screenshots
+![alt](1.png)
+![alt](2.png)
+![alt](3.png)
+
