@@ -13,3 +13,8 @@ Thus I did the following
 # RoadBlock
 The major road block I got was the amount of sentences that the paragraphs contain was too much to process thus I had to sample a small subset of the total data to work with.
 
+# Instructions
+1. Install sentence-transformers,pandas and spacy using pip
+2. Open the Jupyter Notebook
+3.  Remove "/kaggle/input/pclub-nlp/" from both para_path and queries_path
+
